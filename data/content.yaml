@@ -16,6 +16,24 @@ BasicInfo:
 
 Profile: "Sou graduada em Ciência Política com ênfase em Relações Internacionais pela  Universidade Federal de Pernambuco (UFPE). Possuo Mestrado em Ciência Política (UFPE) e atualmente sou doutoranda em Ciência Política (UFPE) e sigo com a segunda graduação em Ciência de Dados pela Estácio. Tenho a habilidade de desenvolver e analisar projetos e possuo entendimento metodológico quantitativo e qualitativo. Meus interesses principais são em representação política, opinião pública, pesquisa qualitativa e quantitativa, análise de dados e programação (R avançado e Python básico). "
 
+  - Employer: Universidade Federal de Pernambuco (UFPE)
+    Place: Pernambuco, Brasil
+    Positions:
+      - Title: Estágio Docência
+        Date: 2022 - 2022
+        Details:
+          - Disciplina Métodos Quantitativos I na Graduação de Ciência Política.
+          -  Assistência ao Professor efetivo da disciplina e docência.
+        Badges: ['R', 'RMarkdown']
+  - Employer: Universidade Federal de Pernambuco (UFPE)
+    Place: Pernambuco, Brasil
+    Positions:
+      - Title: Monitoria
+        Date: 2021 - 2021
+        Details:
+          - Disciplina Métodos Quantitativos II na Graduação de Ciência Política.
+          -  Assistência ao Professor efetivo da disciplina.
+        Badges: ['R', 'RMarkdown']
 Experience:
   - Employer: Simplex
     Place: Pernambuco, Brasil
@@ -25,46 +43,6 @@ Experience:
         Details:
           - Desenvolvimento de pesquisas qualitativas nesta organização.
         Badges: ['RMarkdown', 'Canva']
-  - Employer: Universidade Federal de Pernambuco (UFPE)
-    Place: Pernambuco, Brasil
-    Positions:
-      - Title: Estágio Docência
-        Date: 2022
-        Details:
-          - Disciplina Métodos Quantitativos I na Graduação de Ciência Política.
-          -  Assistência ao Professor efetivo da disciplina e docência.
-        Badges: ['R', 'RMarkdown']
-  - Employer: Universidade Federal de Pernambuco (UFPE)
-    Place: Pernambuco, Brasil
-    Positions:
-      - Title: Monitoria
-        Date: 2022
-        Details:
-          - Disciplina Métodos Quantitativos II na Graduação de Ciência Política.
-          -  Assistência ao Professor efetivo da disciplina.
-        Badges: ['R', 'RMarkdown']
-  - Employer: Vértice Estratégia
-    Place: Pernambuco, Brasil
-    Positions:
-      - Title: Consultoria de Política e Estatística
-        Date: 2022
-        Details:
-          - Análise de pesquisa quantitativa nesta organização.
-        Badges: ['R']
-  - Employer: Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE)
-    Place: Pernambuco, Brasil
-    Positions:
-      - Title: Bolsista integral de pós-graduação
-        Date: 2018 - 2020
-        Details:
-          - Desenvolvimento de pesquisa de Mestrado.
-  - Employer: Governo do Estado de Pernambuco
-    Place: Pernambuco, Brasil
-    Positions:
-      - Title: Instrutora do Projeto Mais Educação
-        Date: 2017 - 2017
-        Details:
-          - Ministramento de aulas aos alunos do Ensino Fundamental.
   - Employer: ONG Elas No Poder
     Place: Brasil
     Positions:
@@ -83,6 +61,29 @@ Experience:
           - "Participação da campanha eleitoral de uma Vereadora em Pernambuco. As atividades foram: construção do website da candidata, auxílio no desenvolvimento do Plano de Mandato, monitoramento e criação de conteúdo para as redes sociais."
           - Trabalho voluntário.
         Badges: ['R', 'Hugo', 'html', 'css']
+  - Employer: Vértice Estratégia
+    Place: Pernambuco, Brasil
+    Positions:
+      - Title: Consultoria de Política e Estatística
+        Date: 2020 - 2020
+        Details:
+          - Análise de pesquisa quantitativa nesta organização.
+        Badges: ['R']
+  - Employer: Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE)
+    Place: Pernambuco, Brasil
+    Positions:
+      - Title: Bolsista integral de pós-graduação
+        Date: 2018 - 2020
+        Details:
+          - Desenvolvimento de pesquisa de Mestrado.
+  - Employer: Governo do Estado de Pernambuco
+    Place: Pernambuco, Brasil
+    Positions:
+      - Title: Instrutora do Projeto Mais Educação
+        Date: 2017 - 2017
+        Details:
+          - Ministramento de aulas aos alunos do Ensino Fundamental.
+
 
 
 
